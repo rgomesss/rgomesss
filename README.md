@@ -1,7 +1,7 @@
    ### Rafael Gomes
 
 
-- 🔭 Hoje eu trabalho com desenvolvimento web 
+- 🔭 Faço projetos utilizando JavaScript 
 - 🌱 Estudando React 
 - 📫 Email: rafinha.gomes99@hotmail.com 
 
