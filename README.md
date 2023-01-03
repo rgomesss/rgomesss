@@ -2,7 +2,7 @@
 
 
 - 🔭 Faço projetos utilizando JavaScript 
-- 🌱 Estudando React 
+- 🌱 Cursando Ciência da Computação 
 - 📫 Email: rafinha.gomes99@hotmail.com 
 
 <div align="start">
