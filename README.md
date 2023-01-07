@@ -17,8 +17,7 @@
 
 
    
-   ![Snake animation](https://github.com/rgomesss/rgomesss/blob/output/github-contribution-grid-snake.svg)
-   
+  
  <h1> Linguagens mais usadas </h1>
 <div style="display: inline_block"><br>
   
