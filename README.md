@@ -1,7 +1,7 @@
    ### Rafael Gomes
 
 
-- 🔭 Faço projetos utilizando JavaScript 
+- 🔭 Faço projetos utilizando JavaScript e Python 
 - 🌱 Cursando Ciência da Computação 
 - 📫 Email: rgomesss16@gmail.com 
 
