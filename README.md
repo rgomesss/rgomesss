@@ -3,7 +3,7 @@
 
 - 🔭 Faço projetos utilizando JavaScript e Python 
 - 🌱 Cursando Ciência da Computação 
-- 📫 Email: rgomesss16@gmail.com 
+- 📫 Email: rgomessss16@gmail.com 
 
 <a href="https://instagram.com/rgomesss" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:rgomesss16@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
