@@ -27,6 +27,5 @@
  </div>
  <h1> O foco é a evolução! </h1>
 <div>
-<img align="center" alt="zidrico-yoda" src="https://i.pinimg.com/originals/a3/c7/35/a3c7357e33061a3fc4f43fdd2622cbfb.gif
-">
+<img align="center" alt="zidrico-yoda" src="https://i.pinimg.com/originals/a3/c7/35/a3c7357e33061a3fc4f43fdd2622cbfb.gif">
 </div>
