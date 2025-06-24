@@ -27,5 +27,6 @@
  </div>
  <h1> O foco é a evolução! </h1>
 <div>
-<img align="center" alt="zidrico-yoda" src="https://media1.tenor.com/m/zk6OuE-RGngAAAAC/midoriya-izuku-anime-stud.gif">
+<img align="center" alt="zidrico-yoda" src="![image](https://github.com/user-attachments/assets/73ac78cc-46a9-49ec-8ce1-924ef36181f0)
+">
 </div>
