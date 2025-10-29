@@ -7,7 +7,7 @@
 
 - 📫 Você pode me encontrar através do email **rgomessss16@gmail.com**
 
-- 📄 Todas as minhas experiências no link <a href="https://www.linkedin.com/in/rgomesss16/">https://www.linkedin.com/in/rgomesss16</a>
+- 📄 Todas as minhas experiências no link <a href="https://www.linkedin.com/in/rgomesss16/" target ="_blank">https://www.linkedin.com/in/rgomesss16</a>
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
