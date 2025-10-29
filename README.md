@@ -1,31 +1,22 @@
-   ### Rafael Gomes
+<h1 align="center">Oi 👋, Eu sou Rafael</h1>
+<h3 align="center">Apaixonado por análise de dados</h3>
 
+- 🌱 Atualmente estou aprendendo **Python e Machine Learning**
 
-- 🔭 Faço projetos utilizando JavaScript e Python 
-- 🌱 Graduado em Ciência da Computação 
+- 💬 Me pergunte sobre **SQL, Power BI, Python, ETL**
 
+- 📫 Você pode me encontrar através do email **rgomessss16@gmail.com**
 
-<a href="https://instagram.com/rgomesss" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:rgomesss16@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rgomes16/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<div align="start">
-  <a href="https://github.com/rgomesss">
-  
-  
-</div>
+- 📄 Todas as minhas experiências no link [https://www.linkedin.com/in/rgomesss16/](https://www.linkedin.com/in/rgomesss16/)
 
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rgomesss16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rgomesss16" height="30" width="40" /></a>
+<a href="https://kaggle.com/rgomesss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rgomesss" height="30" width="40" /></a>
+<a href="https://instagram.com/rgomesss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rgomesss" height="30" width="40" /></a>
+</p>
 
-   
-  
- <h1> Linguagens mais usadas </h1>
-<div style="display: inline_block"><br>
-  
-  <img align="center" alt="zidrico-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="zidrico-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="zidrico-JS" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="zidrico-PYTHON" heigh="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- </div>
- <h1> O foco é a evolução! </h1>
-<div>
-<img align="center" alt="zidrico-yoda" src="https://i.pinimg.com/originals/a3/c7/35/a3c7357e33061a3fc4f43fdd2622cbfb.gif">
-</div>
+<h3 align="left">Linguegens e Ferramentas:</h3>
+<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rgomesss&show_icons=true&locale=en&layout=compact" alt="rgomesss" /></p>
