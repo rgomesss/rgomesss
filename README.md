@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, Eu sou Rafael</h1>
+<h1 align="center">Oi 👋, eu sou Rafael</h1>
 <h3 align="center">Apaixonado por análise de dados</h3>
 
 - 🌱 Atualmente estou aprendendo **Python e Machine Learning**
